@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Athul
+Hi 👋 its me Athul
 ======================
 
 Software Engineer
